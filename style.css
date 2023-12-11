@@ -1,0 +1,200 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+@font-face {
+    font-family: f1;
+    src: url(Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: f2;
+    src: url(Classyvogueregular.ttf);
+}
+
+img.a1{
+    height: 125px;
+    width: 200px;
+    margin-left: 425px;
+}
+
+p{
+    font-family: f1;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2{
+    font-family: f2;
+    text-align: center;
+    font-size: 25px;
+    margin-right: 80px;
+}
+
+img{
+    margin-left: 350px;
+    width: 600px;
+    height: 400px;
+}
+
+body{
+    background-color: rgb(255, 235, 169);
+}
+
+img.l1{
+    border-radius: 28px;
+    background: #e0e0e0;
+    box-shadow: 23px 23px 40px #929292, -23px -23px 40px #ffffff;
+    width: 435px;
+    height: 370px;
+    margin: auto;
+    display: block;
+}
+
+header{
+    display: flex;
+    background-color: #ffda89;
+    padding: 0;
+    position: fixed;
+    width: 1500px;
+}
+
+img.a1{
+    width: 200px;
+    margin-left: -3vh;
+}
+
+h1{
+    font-family: f2;
+    color: #f27b50;
+    margin-top: 5vh;
+    margin-left: -5vh;
+}
+
+footer p{
+    font-size: 20px;
+    margin-top: 45px;
+}
+
+main{
+    margin-bottom: 40px;
+}
+
+.Lisiane p{
+    margin-bottom: 60px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Lisiane h2{
+    margin-bottom: 40px;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Juarez p{
+    margin-bottom: 60px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Juarez h2{
+    margin-bottom: 40px;
+    color: #000000;
+    font-size: 30px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.Gabriela p{
+    margin-bottom: 60px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Gabriela h2{
+    margin-bottom: 40px;
+    color: #000000;
+    font-size: 30px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.seta {
+    position: absolute;
+    height: 50px;
+    width: auto;
+    top: 190%;
+    left: 10%;
+  }
+  
+  footer {
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 3%;
+  }
+  
+  p.rede {
+    font-size: 100%;
+  }
+  
+  img.mini {
+    height: 100px;
+    width: auto;
+    /* position: absolute; */
+    top: 100%;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+  }
+  
+.down p {
+    position: absolute;
+    margin-right: 99900px;
+    top: 99px;
+  }
+  
+.seta{
+  bottom: 0;
+  position: absolute;
+  margin-top: 70%;
+  
+ }
+
+ .jj{
+    
+ }
+
+ .m1{
+ height: 100px;   
+ width: auto;
+ }
+
+ .m2{
+    height: 100px;
+    width: auto;
+ }
+
+ .m3{
+    height: 100px;
+    width: auto;
+ }
